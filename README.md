@@ -16,7 +16,7 @@ you may need to pre-install them to make sure you can run our code! :)
 
 All you have to do is run following command in terminal:
 ```bash
-./compile.sh
+bash compile.sh
 ```
 We care about TA as we always do! :)
 ## How to run our nerual_network.py?
