@@ -57,6 +57,12 @@ Jiaqi Wang:
 6. write Readme for our project
 
 Minghui Zhu:
+1. choose the final project topic and lead the team
+2. designed and implemented codes for neural network models, LSTM, GRU, MLP.
+3. revised Naive Bayes Classifier and Decision Tree Classifier based on Shulin's work
+4. designed and implemented the raw-text based features:length of question, number of punctuations, number of stopwords, number of tokens, number of types and average length of tokens.
+5. write the models part in paper
+6. cleaning and polishing all the code, and make most of them runnable locally
 
 Yue: 
 1. designed n-gram analysis in data analysis part, implemented and visualized in data_analysis.py
