@@ -46,10 +46,21 @@ and find the best feature which help us to rank top 15% of all teams in competit
 
 ## Division of work
 
-Shulin:
+Shulin Chan:
 
-Jiaqi:
+Jiaqi Wang: 
+1. designed the embeddings analysis alogorithm and implemented in embedding_analysis.py
+2. designed the data analysis algorithm( except the n-gram analysis part) and implemented in data_analysis.py
+3. employ feature engineering related with context: dirty word, comparison, exagerrated word, groups.
+4. implemented features above in both neural network models and bayes/decision models
+5. write papers related with what I did above
+6. write Readme for our project
 
-Minghui:
+Minghui Zhu:
 
-Yue: Coded feature - ngrams part.
+Yue: 
+1. designed n-gram analysis in data analysis part, implemented and visualized in data_analysis.py
+2. designed features of most frequently used unigrams/bigrams/trigrams in sincere questions, and insincere questions.
+3. implemented the n-gram features in neural network model, naive bayes and decision tree classifier.
+4. designed the paper's structure, write part of introduction, data analysis section, feature section and conclusion 
+5. polish the whole paper
