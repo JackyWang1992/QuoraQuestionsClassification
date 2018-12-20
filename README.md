@@ -19,8 +19,8 @@ All you have to do is run following command in terminal:
 bash compile.sh
 ```
 We care about TA as we always do! :)
-## How to run our nerual_network.py?
-Sorry, since we used LSTM and GRU neural network model, both training and prediction need GPU's help :(
+## How to run our neural_network.py?
+Unfortunately, since we used LSTM and GRU neural network model, both training and prediction need GPU's help :(
 So we cannot make our main.py run locally without powerful GPU and we only run code here in Kaggle kernel.
 But you can still browse our code and get a good idea about how we clean our data, how we implement our models and how we used our 
 features to improve our model. It's very interesting and shows how we think about linguistic and deep learning.
