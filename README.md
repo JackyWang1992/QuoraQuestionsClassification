@@ -44,7 +44,8 @@ python3 naive_bayes&decision_tree.py 'D'
 We add a lot of features for both neural network and bayes/decision tree model. Although not each of them worked well, we still learn a lot 
 and find the best feature which help us to rank top 15% of all teams in competition! Cheers! 
 
-##Division of work
+## Division of work
+
 Shulin:
 
 Jiaqi:
